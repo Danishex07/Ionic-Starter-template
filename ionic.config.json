@@ -1,0 +1,8 @@
+{
+  "name": "Dash",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "56cb18ac"
+}

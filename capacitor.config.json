@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Dash",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
